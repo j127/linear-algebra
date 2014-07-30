@@ -1,4 +1,4 @@
-This is a forked version for personal use. If you're looking for the original project, go to the original [https://github.com/abarbu/linear-algebra](here).
+This is a forked version for personal use. If you're looking for the original project, go to the original (https://github.com/abarbu/linear-algebra)[here].
 
 ---------------
 
